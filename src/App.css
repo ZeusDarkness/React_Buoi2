@@ -1,0 +1,32 @@
+.contact {
+  border: 1px solid;
+}
+.contact__name {
+  border-bottom: 1px solid;
+}
+.contact__phone {
+  border-bottom: 1px solid;
+  padding: 3px;
+}
+.contact__address {
+  border-bottom: 1px solid;
+  padding: 3px;
+}
+span {
+  font-weight: bold;
+}
+
+.btn {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  position: relative;
+  left: 265px;
+}
+
+.btn__all {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  position: relative;
+  border-radius: 15px;
+  left: 1260px;
+}
